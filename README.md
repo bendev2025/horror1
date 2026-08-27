@@ -1,4 +1,4 @@
-# Ben
+# Horror Game
 
 A first-person horror parkour game built in Godot. You run an endless industrial path that generates as you go: jumps, slides, vaults, climbs, drops, and branching walkways in a dark, foggy machine world.
 
